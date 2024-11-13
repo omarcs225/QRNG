@@ -1,7 +1,7 @@
 # QRNG
 ##For the code to work: 
 ###1. Extract zip file named: Team Name Is Out of Schrödingers box
-###2. Open Eclipse ide and import JavaCodeHackathon.zip as an archive file
+2. Open Eclipse ide and import JavaCodeHackathon.zip as an archive file
 ###3. open api.py on Visual Studio Code
 ###4. On visual Studio Code, open a new terminal and run the api.py file
 ###5. In Eclipse, run the class named DropdownWithInput
